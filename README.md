@@ -1,4 +1,4 @@
-# Inclusion of EPA analysis and the Single-Step approach for Reaction-Norms in Multi-environmet GBLUP
+# Inclusion of EPA analysis and the Single-Step approach for Reaction-Norms in Multi-environment GBLUP
 
 **Description:**
 > *In developing*. Codes and tutorials related to "Environmental-Phenotype Associations" (EPA) and its uses in multi-environment GBLUP.
